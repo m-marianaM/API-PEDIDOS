@@ -1,0 +1,10 @@
+{
+  "name": "api-pedidos",
+  "version": "1.0.0",
+  "description": "API simples para gerenciamento de pedidos",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.0.0"
+  }
+}
