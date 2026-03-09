@@ -105,7 +105,7 @@ app.delete("/order/:id", async (req, res) => {
 
   res.json({ message: "Pedido removido" });
 });
-
+// roda a API
 app.listen(3000, () => {
   console.log("API rodando na porta 3000");
 });
